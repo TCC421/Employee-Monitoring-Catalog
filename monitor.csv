@@ -1,0 +1,24 @@
+﻿Software,Domain,Executables
+ActivityWatch,,"aw-server.exe,aw-qt.exe,aw-watcher-window.exe,aw-watcher-afk.exe"
+Activtrak,,"SVCTCOM.exe,SCTHOST.exe,syschk.exe,svctcr.exe"
+BrowseReporter,,cwclient.exe
+CleverControl,,
+Controlio,,"wemonc.exe,outlookapp.exe,wesvc.exe"
+DeskTime,,DeskTime.exe
+Ekran,,"EkranClient.exe,EkranController.exe,EkranClientSession.exe,MLGCSP.exe"
+Hubstaff,,HubstaffHelper.exe
+Insightful,,workpuls.exe
+Kickidler,,"grabber.exe,grabberAgent.exe,grabberSubAgent.exe"
+Monitask,,
+SentryPC,,
+SoftActivity,,
+SoftTrack,,
+Staffcop,,
+Teramind,,
+TimeDoctor,,"staffservice.exe,sfproc.exe"
+Traqq,,"Traqq.exe,TraqqMonitor.exe,TraqqServer.exe"
+Veriato/Interguard,,"mrstch.exe,mxcrsc32.exe,wlcnthr.exe,SDFMigrator.exe"
+We360.ai,,
+WebWork Time Tracker,,WebWorkTracker.exe
+WorkTime,,"wtcma.exe,WTCWatch.exe"
+Wolfeye,,
