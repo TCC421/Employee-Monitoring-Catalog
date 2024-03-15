@@ -2,23 +2,23 @@
 ActivityWatch,,"aw-server.exe,aw-qt.exe,aw-watcher-window.exe,aw-watcher-afk.exe"
 Activtrak,,"SVCTCOM.exe,SCTHOST.exe,syschk.exe,svctcr.exe"
 BrowseReporter,,cwclient.exe
-CleverControl,,
+CleverControl,,clvhost.exe
 Controlio,,"wemonc.exe,outlookapp.exe,wesvc.exe"
 DeskTime,,DeskTime.exe
 Ekran,,"EkranClient.exe,EkranController.exe,EkranClientSession.exe,MLGCSP.exe"
 Hubstaff,,HubstaffHelper.exe
 Insightful,,workpuls.exe
 Kickidler,,"grabber.exe,grabberAgent.exe,grabberSubAgent.exe"
-Monitask,,
-SentryPC,,
-SoftActivity,,
-SoftTrack,,
-Staffcop,,
-Teramind,,
+Monitask,,monitask.exe
+SentryPC,,"C:\ProgramData\spc\csrss.exe,C:\ProgramData\spc\loc.exe,C:\ProgramData\spc\services.exe"
+Activity Monitor,,"swsys.exe,amsvc.exe,samimpl.exe,samimpl64.exe"
+SoftTrack,,"stlwa_nt.exe,nwlwa32.exe,inventry.exe,cpt_x64a.exe"
+Staffcop,,"vmnetmon64.exe,vmnetdrv32.exe,vmnetdrv64.exe"
+Teramind,,svc.exe
 TimeDoctor,,"staffservice.exe,sfproc.exe"
 Traqq,,"Traqq.exe,TraqqMonitor.exe,TraqqServer.exe"
 Veriato/Interguard,,"mrstch.exe,mxcrsc32.exe,wlcnthr.exe,SDFMigrator.exe"
-We360.ai,,
+We360.ai,,MyZen.exe
 WebWork Time Tracker,,WebWorkTracker.exe
 WorkTime,,"wtcma.exe,WTCWatch.exe"
 Wolfeye,,
