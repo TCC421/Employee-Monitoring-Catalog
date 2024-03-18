@@ -4,11 +4,12 @@ ActivityWatch,activitywatch.net,"aw-server.exe,aw-qt.exe,aw-watcher-window.exe,a
 Activtrak,activtrak.com,"SVCTCOM.exe,SCTHOST.exe,syschk.exe,svctcr.exe,conmhost.exe"
 BrowseReporter,currentwave.com,cwclient.exe
 CleverControl,clevercontrol.com,"clvhost.exe,clv.exe,clsvs.exe"
-Controlio,controlio.net,"wemonc.exe,outlookapp.exe,wesvc.exe"
+Controlio,controlio.net,"wemonc.exe,outlookapp.exe,wesvc.exe,wecdt.exe,wecmsg.exe,wemon.exe"
 DeskTime,desktime.com,DeskTime.exe
 Ekran,ekransystem.com,"EkranClient.exe,EkranController.exe,EkranClientSession.exe,MLGCSP.exe"
 Hubstaff,hubstaff.com,"HubstaffHelper.exe,HubstaffClient.exe"
 Insightful,insightful.io,workpuls.exe
+Interguard,interguardsoftware.com,ws_hixdptlbv.exe
 Kickidler,kickidler.com,"grabber.exe,grabberAgent.exe,grabberSubAgent.exe"
 Monitask,monitask.com,monitask.exe
 SentryPC,sentrypc.com,"csrss.exe,loc.exe,services.exe,nostealth.exe"
@@ -17,8 +18,9 @@ Staffcop,staffcop.com,"vmnetmon64.exe,vmnetdrv32.exe,vmnetdrv64.exe"
 Teramind,teramind.co,svc.exe
 TimeDoctor,timedoctor.com,"staffservice.exe,sfproc.exe"
 Traqq,traqq.com,"Traqq.exe,TraqqMonitor.exe,TraqqServer.exe"
-Veriato/Interguard,veriato.com,"mrstch.exe,mxcrsc32.exe,wlcnthr.exe,SDFMigrator.exe"
+Veriato,veriato.com,"mrstch.exe,mxcrsc32.exe,wlcnthr.exe,SDFMigrator.exe,Admin.exe,SPSetupWin.exe,Preinstaller.exe,spsetup.exe,spsetup64.exe,bootstrap.exe"
 We360.ai,we360.ai,MyZen.exe
+Webwatcher,webwatcher.com,webwatcherproxy.exe
 WebWork Time Tracker,webwork-tracker.com,WebWorkTracker.exe
 WorkTime,worktime.com,"wtcma.exe,WTCWatch.exe"
 Wolfeye,wolfeye.de,"s.exe,wolfeye*.exe,c.exe,k.exe,m.exe"
