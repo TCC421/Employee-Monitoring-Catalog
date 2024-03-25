@@ -1,26 +1,26 @@
-﻿Software,Domain,Executables
-Activity Monitor,softactivity.com,"swsys.exe,amsvc.exe,samimpl.exe,samimpl64.exe,salogsrv.exe,swatcher.exe,sa_notification_client.exe,sawebsrv.exe"
-ActivityWatch,activitywatch.net,"aw-server.exe,aw-qt.exe,aw-watcher-window.exe,aw-watcher-afk.exe,aw-watcher-input.exe"
-Activtrak,activtrak.com,"SVCTCOM.exe,SCTHOST.exe,syschk.exe,svctcr.exe,conmhost.exe"
-BrowseReporter,currentwave.com,cwclient.exe
-CleverControl,clevercontrol.com,"clvhost.exe,clv.exe,clsvs.exe"
-Controlio,controlio.net,"wemonc.exe,outlookapp.exe,wesvc.exe,wecdt.exe,wecmsg.exe,wemon.exe"
-DeskTime,desktime.com,DeskTime.exe
-Ekran,ekransystem.com,"EkranClient.exe,EkranController.exe,EkranClientSession.exe,MLGCSP.exe"
-Hubstaff,hubstaff.com,"HubstaffHelper.exe,HubstaffClient.exe"
-Insightful,insightful.io,workpuls.exe
-Interguard,interguardsoftware.com,ws_hixdptlbv.exe
-Kickidler,kickidler.com,"grabber.exe,grabberAgent.exe,grabberSubAgent.exe"
-Monitask,monitask.com,monitask.exe
-SentryPC,sentrypc.com,"csrss.exe,loc.exe,services.exe,nostealth.exe"
-SoftTrack,softwaremetering.com,"stlwa_nt.exe,nwlwa32.exe,inventry.exe,cpt_x64a.exe,stsrvc.exe"
-Staffcop,staffcop.com,"vmnetmon64.exe,vmnetdrv32.exe,vmnetdrv64.exe"
-Teramind,teramind.co,svc.exe
-TimeDoctor,timedoctor.com,"staffservice.exe,sfproc.exe"
-Traqq,traqq.com,"Traqq.exe,TraqqMonitor.exe,TraqqServer.exe"
-Veriato,veriato.com,"mrstch.exe,mxcrsc32.exe,wlcnthr.exe,SDFMigrator.exe,Admin.exe,SPSetupWin.exe,Preinstaller.exe,spsetup.exe,spsetup64.exe,bootstrap.exe"
-We360.ai,we360.ai,MyZen.exe
-Webwatcher,webwatcher.com,webwatcherproxy.exe
-WebWork Time Tracker,webwork-tracker.com,WebWorkTracker.exe
-WorkTime,worktime.com,"wtcma.exe,WTCWatch.exe"
-Wolfeye,wolfeye.de,"s.exe,wolfeye*.exe,c.exe,k.exe,m.exe"
+﻿Software,Domain,Executables,Files/Folders
+Activity Monitor,softactivity.com,"swsys.exe,amsvc.exe,samimpl.exe,samimpl64.exe,salogsrv.exe,swatcher.exe,sa_notification_client.exe,sawebsrv.exe",C:\Windows\sysnchrb\
+ActivityWatch,activitywatch.net,"aw-server.exe,aw-qt.exe,aw-watcher-window.exe,aw-watcher-afk.exe,aw-watcher-input.exe","C:\Users\*\AppData\Local\ActivityWatch\,C:\Program Files (x86)\ActivityWatch\"
+Activtrak,activtrak.com,"SVCTCOM.exe,SCTHOST.exe,syschk.exe,svctcr.exe,conmhost.exe","C:\Windows\SysWow64\SVCTCOM.exe,C:\Windows\SysWow64\SCTHOST.exe,C:\Windows\SysWow64\SCTHOSTH.dll,C:\Windows\SysWow64\syschk.exe,C:\Windows\SysWow64\svctcr.exe,C:\Windows\SysWow64\conmhost.exe"
+BrowseReporter,currentwave.com,cwclient.exe,"C:\Program Files (x86)\CurrentWare\,C:\Windows\System32\WinDivert64.sys,C:\Windows\System32\wcsystck\WinDivert64.sys,C:\Windows\SysWOW64\wcsystck\,C:\Windows\System32\wcsystck\,C:\Windows\SysWOW64\cwClient.exe,C:\WINDOWS\system32\cwClient.exe,C:\Users\*\AppData\Roaming\CurrentWare\"
+CleverControl,clevercontrol.com,"clvhost.exe,clv.exe,clsvs.exe",C:\ProgramData\{FO16FA1A-AA91-C56A-654F-E3865DA10DAT}\
+Controlio,controlio.net,"wemonc.exe,outlookapp.exe,wesvc.exe,wecdt.exe,wecmsg.exe,wemon.exe",C:\ProgramData\{E0E95C6C-F194-4846-928D-E5538022226D}\
+DeskTime,desktime.com,DeskTime.exe,C:\Users\*\AppData\Local\DeskTime\
+Ekran,ekransystem.com,"EkranClient.exe,EkranController.exe,EkranClientSession.exe,MLGCSP.exe","C:\Program Files\Ekran System\Ekran System\Client\,C:\Program Files\MLG SYSTEM\MLG SYSEM\Client\x86\"
+Hubstaff,hubstaff.com,"HubstaffHelper.exe,HubstaffClient.exe","C:\Program Files\Hubstaff\,C:\Users\*\AppData\Roaming\Hubstaff"
+Insightful,insightful.io,workpuls.exe,"C:\Users\*\AppData\Roaming\workpuls-agent,C:\Users\*\AppData\Local\workpuls-agent-updater,C:\Windows\SysWOW64\Workpuls\,C:\Windows\system32\WorkPuls32\,C:\Users\*\AppData\Local\Programs\workpuls-agent\"
+Interguard,interguardsoftware.com,ws_hixdptlbv.exe,C:\Windows\SysWow64\dmktc\
+Kickidler,kickidler.com,"grabber.exe,grabberAgent.exe,grabberSubAgent.exe","C:\Users\*\AppData\Local\KickidlerViewer,C:\Program Files\TeleLinkSoftHelper\bin\"
+Monitask,monitask.com,monitask.exe,"C:\Program Files (x86)\Deskcap\,C:\ProgramData\Deskcap\"
+SentryPC,sentrypc.com,"csrss.exe,loc.exe,services.exe,nostealth.exe",C:\ProgramData\spc\
+SoftTrack,softwaremetering.com,"stlwa_nt.exe,nwlwa32.exe,inventry.exe,cpt_x64a.exe,stsrvc.exe","C:\Program Files\integrity software inc\workstation agents\,C:\WINDOWS\SYSWOW64\DRIVERS\STLWA_NT.EXE,C:\WINDOWS\SYSTEM32\DRIVERS\STLWA_NT.EXE"
+Staffcop,staffcop.com,"vmnetmon64.exe,vmnetdrv32.exe,vmnetdrv64.exe","C:\windows\auxiliaryservice.exe,C:\Windows\SysWOW64\TimeControlSvc\,C:\Windows\System32\TimeControlSvc\,c:\Windows\System32\config\systemprofile\AppData\Roaming\TimeSvc3,C:\Windows\System32\drivers\ProcObsrv64.sys,C:\Windows\System32\drivers\CaptureFileMonitor64.sys"
+Teramind,teramind.co,"svc.exe,dwm.exe","C:\programdata\{4cec2908-5ce4-48f0-a717-8fc833d8017a}\,C:\windows\system32\drivers\tmfsdrv2.sys,C:\Windows\system32\drivers\tm_filter.sys,C:\ProgramData\Teramind Agent\"
+TimeDoctor,timedoctor.com,"staffservice.exe,sfproc.exe",C:\ProgramData\SF\sfproc\
+Traqq,traqq.com,"Traqq.exe,TraqqMonitor.exe,TraqqServer.exe",C:\Program Files\Traqq\
+Veriato,veriato.com,"mrstch.exe,mxcrsc32.exe,wlcnthr.exe,SDFMigrator.exe,Admin.exe,SPSetupWin.exe,Preinstaller.exe,spsetup.exe,spsetup64.exe,bootstrap.exe",
+We360.ai,we360.ai,MyZen.exe,"C:\Users\*\AppData\Local\Programs\we360\,C:\Users\*\AppData\Local\Programs\we360\MyZen.exe"
+Webwatcher,webwatcher.com,webwatcherproxy.exe,"C:\Program Files\WebWatcher\,C:\Windows\system32\WebWatcherLSP.dll"
+WebWork Time Tracker,webwork-tracker.com,WebWorkTracker.exe,"C:\Program Files\WebWork Tracker\WebWork Tracker\,C:\Program Files\WebWork Tracker\WebWork Tracker\WebWorkTracker.exe"
+WorkTime,worktime.com,"wtcma.exe,WTCWatch.exe","C:\Program Files\wtcma\,C:\Program Files (x86)\wtcma\"
+Wolfeye,wolfeye.de,"s.exe,wolfeye*.exe,c.exe,k.exe,m.exe",
