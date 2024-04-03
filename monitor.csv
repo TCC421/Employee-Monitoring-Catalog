@@ -12,10 +12,10 @@ Insightful,insightful.io,workpuls.exe,"C:\Users\*\AppData\Roaming\workpuls-agent
 Interguard,interguardsoftware.com,ws_hixdptlbv.exe,C:\Windows\SysWow64\dmktc\
 Kickidler,kickidler.com,"grabber.exe,grabberAgent.exe,grabberSubAgent.exe","C:\Users\*\AppData\Local\KickidlerViewer,C:\Program Files\TeleLinkSoftHelper\bin\"
 Monitask,monitask.com,monitask.exe,"C:\Program Files (x86)\Deskcap\,C:\ProgramData\Deskcap\"
-SentryPC,sentrypc.com,"csrss.exe,loc.exe,services.exe,nostealth.exe",C:\ProgramData\spc\
+SentryPC,sentrypc.com,"loc.exe,services.exe,nostealth.exe",C:\ProgramData\spc\
 SoftTrack,softwaremetering.com,"stlwa_nt.exe,nwlwa32.exe,inventry.exe,cpt_x64a.exe,stsrvc.exe","C:\Program Files\integrity software inc\workstation agents\,C:\WINDOWS\SYSWOW64\DRIVERS\STLWA_NT.EXE,C:\WINDOWS\SYSTEM32\DRIVERS\STLWA_NT.EXE"
 Staffcop,staffcop.com,"vmnetmon64.exe,vmnetdrv32.exe,vmnetdrv64.exe","C:\windows\auxiliaryservice.exe,C:\Windows\SysWOW64\TimeControlSvc\,C:\Windows\System32\TimeControlSvc\,c:\Windows\System32\config\systemprofile\AppData\Roaming\TimeSvc3,C:\Windows\System32\drivers\ProcObsrv64.sys,C:\Windows\System32\drivers\CaptureFileMonitor64.sys"
-Teramind,teramind.co,"svc.exe,dwm.exe","C:\programdata\{4cec2908-5ce4-48f0-a717-8fc833d8017a}\,C:\windows\system32\drivers\tmfsdrv2.sys,C:\Windows\system32\drivers\tm_filter.sys,C:\ProgramData\Teramind Agent\"
+Teramind,teramind.co,svc.exe,"C:\programdata\{4cec2908-5ce4-48f0-a717-8fc833d8017a}\,C:\windows\system32\drivers\tmfsdrv2.sys,C:\Windows\system32\drivers\tm_filter.sys,C:\ProgramData\Teramind Agent\"
 TimeDoctor,timedoctor.com,"staffservice.exe,sfproc.exe",C:\ProgramData\SF\sfproc\
 Traqq,traqq.com,"Traqq.exe,TraqqMonitor.exe,TraqqServer.exe",C:\Program Files\Traqq\
 Veriato,veriato.com,"mrstch.exe,mxcrsc32.exe,wlcnthr.exe,SDFMigrator.exe,Admin.exe,SPSetupWin.exe,Preinstaller.exe,spsetup.exe,spsetup64.exe,bootstrap.exe","C:\Windows\winipbin-install\,C:\Windows\winipbin\,C:\Windows\SysWOW64\winipdat\,C:\Windows\System32\winipdat\"
