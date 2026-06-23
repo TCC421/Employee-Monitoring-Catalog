@@ -6,7 +6,7 @@ BrowseReporter,currentwave.com,cwclient.exe,"C:\Program Files (x86)\CurrentWare\
 CleverControl,clevercontrol.com,"clvhost.exe,clv.exe,clsvs.exe",C:\ProgramData\{FO16FA1A-AA91-C56A-654F-E3865DA10DAT}\
 Controlio,controlio.net,"wemonc.exe,outlookapp.exe,wesvc.exe,wecdt.exe,wecmsg.exe,wemon.exe",C:\ProgramData\{E0E95C6C-F194-4846-928D-E5538022226D}\
 DeskTime,desktime.com,DeskTime.exe,C:\Users\*\AppData\Local\DeskTime\
-Ekran,ekransystem.com,"EkranClient.exe,EkranController.exe,EkranClientSession.exe,MLGCSP.exe","C:\Program Files\Ekran System\Ekran System\Client\,C:\Program Files\MLG SYSTEM\MLG SYSEM\Client\x86\"
+Ekran,ekransystem.com,"EkranClient.exe,EkranController.exe,EkranClientSession.exe,MLGCSP.exe,SytecaClient.exe","C:\Program Files\Ekran System\Ekran System\Client\,C:\Program Files\MLG SYSTEM\MLG SYSEM\Client\x86\"
 Hubstaff,hubstaff.com,"HubstaffHelper.exe,HubstaffClient.exe","C:\Program Files\Hubstaff\,C:\Users\*\AppData\Roaming\Hubstaff"
 Insightful,insightful.io,workpuls.exe,"C:\Users\*\AppData\Roaming\workpuls-agent,C:\Users\*\AppData\Local\workpuls-agent-updater,C:\Windows\SysWOW64\Workpuls\,C:\Windows\system32\WorkPuls32\,C:\Users\*\AppData\Local\Programs\workpuls-agent\"
 Interguard,interguardsoftware.com,ws_hixdptlbv.exe,C:\Windows\SysWow64\dmktc\
